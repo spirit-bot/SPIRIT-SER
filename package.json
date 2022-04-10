@@ -2,7 +2,7 @@
   "name": "Rudhra",
   "version": "7.3.6",
   "description": "Rudhra is the Modified Version of WhatsAsena, Made By @prince-rudh with Baileys.",
-  "main": "./Rudhra/bot.js",
+  "main": "./SPIRIT-SER/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
