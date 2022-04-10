@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/SPlRlT-YT">spirit-ser</a> to make
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ItsMeRafi/SPIRIT-SER-BOT-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPIRITSER/SPIRIT-SER)
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
@@ -49,7 +49,7 @@ bash <(curl -L https://t.ly/tHxh)
   click to fork the git into your account
  Click [FORK](https://github.com/SPlRlT-YT/SPIRIT-SER/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/SPIRIT-SER copy this url and change SPlRlT-YT with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/SPIRITSER/SPIRIT-SER copy this url and change SPlRlT-YT with your github username and click go<br>
 
 ----
 
